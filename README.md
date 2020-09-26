@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, I'm Jordan</h1>
+<img src="https://raw.githubusercontent.com/jordanncoats/jordanncoats.github.io/master/images/avatar.png">
 <ul>
 <li><h3>Computer Science/Cyber Security Grad @ <a href="https://www.uri.edu/">URI</a></h3></li>
 <li><h3>Personal Website @ <a href="https://jordancoats.dev">jordancoats.dev</a></h3></li>
